@@ -3,7 +3,7 @@
     <td align="center" style="padding: 15px 0 10px 0;">
       <img src="https://raw.githubusercontent.com/protecaosolutionadm-alt/solution-images/main/NOVA%20LOGO%20SOLUTION%20PNG%202.svg" 
            alt="Solution Facilities" 
-           style="width: 160px; height: auto; display: block; border: 0;">
+           style="width: 112px; height: auto; display: block; border: 0;">  <!-- REDUZIDO DE 160px PARA 112px -->
     </td>
   </tr>
   <tr>
